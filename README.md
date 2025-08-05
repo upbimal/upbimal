@@ -3,10 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upbimal" alt="upbimal" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Data Analysis** projects
 
-- 🌱 I’m currently learning **Data Science, ML**
-
+- 🌱 and I am learning more advance **Data Analysis**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/upbimal" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="upbimal" height="30" width="40" /></a>
